@@ -1,0 +1,29 @@
+
+***feet***
+
+1 feet = 30.48 cm
+1 feet = 0.3048 meter
+1 feet = 12 inch
+
+
+***meter***
+
+1 meter = 100.0000032 cm
+1 meter = 3.28084 feet
+1 meter = 39.37008 inch
+
+
+***inch***
+
+1 inch = 2.54000008128 cm
+1 inch = 0.08333333599999999397 feet
+1 inch = 0.0254000008128 meter
+
+***cm***
+
+1 cm = 0.0328084 feet
+1 cm = 0.01 meter
+1 cm = 0.393701 inch
+
+
+

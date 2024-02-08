@@ -1,0 +1,37 @@
+***Rupee***
+
+1 rupee = 0.0122 dollar
+1 rupee = 0.0107 pound
+1 rupee = 0.0122 euro
+1 rupee = 0.0038 kwd
+
+
+***Dollar***
+
+1 dollar = 81.982 rupee
+1 dollar = 0.8791 pound
+1 dollar = 0.0122 euro
+1 dollar = 0.3098 kwd
+
+
+***Pound***
+
+1 pound = 93.275 rupee
+1 pound = 1.1376 dollar
+1 pound = 1.1423 euro
+1 pound = 0.3524 kwd
+
+***Euro***
+
+1 euro = 81.6377 rupee
+1 euro = 0.9959 dollar
+1 euro = 0.8756 pound
+1 euro = 0.3085 kwd
+
+
+***Kuwaiti dinar***
+ 
+1 kwd = 264.6074 rupee
+1 kwd = 3.2277 dollar
+1 kwd = 2.8374 pound
+1 kwd = 3.241 euro
