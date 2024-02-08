@@ -1,6 +1,7 @@
 # Java-Converter-Tool
 
-Java-Converter-Tool is a simple command-line project for converting currency and length.
+- Java-Converter-Tool is a simple command-line project for converting currency and length.
+- This Java mini-project was developed as part of the Diploma Engineering college curriculum
 
 ## Features
 
